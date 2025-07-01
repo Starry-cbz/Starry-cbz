@@ -31,7 +31,7 @@
 ### 🌟 最近的项目
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Starry-cbz&repo=Starry-cbz&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KiteMC&repo=SurviveX&theme=graywhite" />
 </div>
 
 ---
