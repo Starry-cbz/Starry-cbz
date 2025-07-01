@@ -30,9 +30,17 @@
 
 ### 🌟 最近的项目
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KiteMC&repo=SurviveX&theme=graywhite" />
-</div>
+<a
+  href="https://github.com/KiteMC/SurviveX"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=KiteMC&repo=SurviveX&theme=graywhite"
+    alt="SurviveX 仓库卡片"
+    style={{ cursor: 'pointer', borderRadius: 8 }}
+  />
+</a>
 
 ---
 
